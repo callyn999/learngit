@@ -35,8 +35,3 @@ Notepad++ support:
 	https://notepad-plus-plus.org/community/
 
 
-Author:
-*******
-
-Don Ho <don.h@free.fr>
-	https://notepad-plus-plus.org/contributors/author.html
