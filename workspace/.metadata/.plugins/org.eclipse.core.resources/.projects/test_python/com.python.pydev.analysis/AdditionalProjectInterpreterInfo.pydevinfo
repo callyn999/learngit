@@ -1,0 +1,27 @@
+-- VERSION_4
+-- START DISKCACHE_2
+/Users/cathy/learngit/workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/test_python/com.python.pydev.analysis/v2_indexcache
+socket2_test_client|1498727182000000000|/Users/cathy/learngit/workspace/test_python/src/socket2_test_client.py
+QRcode|1498716634000000000|/Users/cathy/learngit/workspace/test_python/src/QRcode.py
+SOCKET_TEST1|1498727281000000000|/Users/cathy/learngit/workspace/test_python/src/SOCKET_TEST1.py
+hello|1498723610000000000|/Users/cathy/learngit/workspace/test_python/src/hello.py
+-- END DISKCACHE
+-- START DICTIONARY
+3
+3=socket2_test_client
+1=QRcode
+2=SOCKET_TEST1
+-- END DICTIONARY
+-- START TREE 1
+7
+dra|1|draw!11@
+fon|1|font!11@
+hei|1|height!11@
+ima|1|image!11@
+rnd|3|rndChar!10@rndColor!10@rndColor2!10@
+s|2|s!19@s!27@
+wid|1|width!11@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE
