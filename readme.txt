@@ -25,7 +25,4 @@ Notepad++ project site:
 Notepad++ wiki:
 	http://docs.notepad-plus-plus.org/
 
-Notepad++ support:
-	https://notepad-plus-plus.org/community/
-
 
